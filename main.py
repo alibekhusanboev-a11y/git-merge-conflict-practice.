@@ -1,10 +1,4 @@
-def show_message():
-    print("Hello")
+print("Hello")
 
+print("Hello from main")
 
-def main():
-    show_message()
-
-
-if __name__ == "__main__":
-    main()
