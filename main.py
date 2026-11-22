@@ -1,4 +1,1 @@
-print("Hello")
-
-print("Hello from main")
-
+print("Hello123Э")
